@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos personales de automatización e inteligencia artificial.
+- 🔭 Actualmente trabajando en proyectos personales de automatización e inteligencia artificial y automátizacion de sistemas de inventario y gestion de software.
 - 🌱 Aprendiendo React, Next.js y sistemas distribuidos.
 - 🧠 Me encanta explorar nuevas tecnologías y compartir lo aprendido.
 - 💬 Pregúntame sobre desarrollo web, IA o herramientas de productividad.
