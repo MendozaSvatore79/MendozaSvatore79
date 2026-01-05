@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Mendoza Svatore</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;IA+y+Automatización;Construyendo+productos+reales;Aprendizaje+constante&center=true&width=520&height=45&font=Fira+Code&pause=1000&color=36BCF7" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Amante+de+la+IA+y+la+Automatización;Siempre+aprendiendo+cosas+nuevas&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=36BCF7" />
 </p>
 
 <p align="center">
@@ -12,25 +12,15 @@
 
 ## 🚀 Sobre mí
 
-- 💼 **Desarrollador Fullstack en activo**, enfocado en productos reales y soluciones escalables.
-- 🔭 Trabajo en **automatización, inteligencia artificial** y **sistemas de inventario y gestión de software**.
-- 🧠 Me gusta explorar nuevas tecnologías y aplicar lo aprendido en proyectos prácticos.
-- 💬 Puedo ayudarte con desarrollo web, IA, automatización y productividad.
-- ✍️ También escribo **artículos técnicos** y documentación.
-- ⚡ Me enfoco en **clean code**, rendimiento y UX funcional.
+- 🔭 Actualmente trabajando en proyectos personales de automatización e inteligencia artificial y automátizacion de sistemas de inventario y gestion de software.
+- 🌱 Aprendiendo React, Next.js y sistemas distribuidos.
+- 🧠 Me encanta explorar nuevas tecnologías y compartir lo aprendido.
+- 💬 Pregúntame sobre desarrollo web, IA o herramientas de productividad.
+- ⚡ Dato curioso: También escribo artículos técnicos en mi blog personal.
 
 ---
 
-## 🌍 Idiomas
-
-- 🇪🇸 Español — Nativo  
-- 🇺🇸 Inglés — Profesional  
-- 🇧🇷 Portugués — Profesional  
-- 🇫🇷 Francés — Intermedio  
-
----
-
-## 📚 Actualmente profundizando en
+## 📚 Actualmente aprendiendo
 
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -39,43 +29,43 @@
 
 ---
 
-## 📌 Intereses profesionales
+## 📌 Intereses
 
 - 🤖 Inteligencia Artificial aplicada a productos reales
-- 🌐 Aplicaciones web escalables
-- ⚙️ Automatización de procesos y scripting
+- 🌐 Aplicaciones Web escalables
+- ⚙️ Automatización y scripting
 - 🧩 Integración de APIs y sistemas distribuidos
-- 🎨 UX/UI minimalista, clara y funcional
+- 🎨 UX/UI minimalista pero funcional
 
 ---
 
-## 🧠 Tecnologías que utilizo
+## 🧠 Tecnologías que uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
 ---
 
 ## 💼 Proyectos personales
 
 | Proyecto | Descripción | Enlace |
-|--------|-------------|--------|
-| 🤖 **Chatbot IA** | Chatbot en Telegram con procesamiento de lenguaje natural y automatización. | [Ver en GitHub](https://github.com/MendozaSvatore79/chatbot-ia) |
-| 🌐 **Portafolio Web** | Portafolio personal desarrollado con React y desplegado en GitHub Pages. | [Ver sitio](https://mendozasvatore79.github.io) |
-| 🔍 **Scraper Noticioso** | Sistema de scraping para extracción y almacenamiento de noticias en MongoDB. | [Ver repo](https://github.com/MendozaSvatore79/news-scraper) |
+|---------|-------------|--------|
+| 🤖 **Chatbot IA** | Chatbot en Telegram con procesamiento de lenguaje natural. | [Ver en GitHub](https://github.com/MendozaSvatore79/chatbot-ia) |
+| 🌐 **Portafolio Web** | Página personal con React y GitHub Pages. | [Ver sitio](https://mendozasvatore79.github.io) |
+| 🔍 **Scraper Noticioso** | Extrae noticias y las organiza en MongoDB. | [Ver repo](https://github.com/MendozaSvatore79/news-scraper) |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MendozaSvatore79&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MendozaSvatore79&show_icons=true&theme=radical&hide_title=true&hide_border=true&hide_rank=false&card_width=380&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -86,9 +76,7 @@
 
 ## 🧾 Frase favorita
 
-> “La tecnología no reemplazará a los grandes maestros,  
-> pero la tecnología en manos de grandes maestros puede ser transformadora.”  
-> — **George Couros**
+> “La tecnología no reemplazará a los grandes maestros, pero la tecnología en manos de grandes maestros puede ser transformadora.” – George Couros
 
 ---
 
@@ -109,5 +97,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MendozaSvatore79&style=flat-square&color=36BCF7" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=MendozaSvatore79&style=flat-square&color=green" alt="visitors"/>
 </p>
