@@ -1,101 +1,157 @@
-<h1 align="center">¡Hola! 👋 Soy Mendoza Svatore</h1>
+ <!--
+-->
+
+<h1 align="center">Mendoza Svatore</h1>
+
+<h3 align="center">Full Stack Developer · Software Engineer · Automation & AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Amante+de+la+IA+y+la+Automatización;Siempre+aprendiendo+cosas+nuevas&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=36BCF7" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Full+Stack+Development+%26+Cloud;AI+%7C+Automation+%7C+System+Integration;Always+learning.+Always+building." alt="Developer introduction" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
-
----
-
-## 🚀 Sobre mí
-
-- 🔭 Actualmente trabajando en proyectos personales de automatización e inteligencia artificial y automátizacion de sistemas de inventario y gestion de software.
-- 🌱 Aprendiendo React, Next.js y sistemas distribuidos.
-- 🧠 Me encanta explorar nuevas tecnologías y compartir lo aprendido.
-- 💬 Pregúntame sobre desarrollo web, IA o herramientas de productividad.
-- ⚡ Dato curioso: También escribo artículos técnicos en mi blog personal.
-
----
-
-## 📚 Actualmente aprendiendo
-
-![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-000?style=flat-square&logo=astro&logoColor=white)
-
----
-
-## 📌 Intereses
-
-- 🤖 Inteligencia Artificial aplicada a productos reales
-- 🌐 Aplicaciones Web escalables
-- ⚙️ Automatización y scripting
-- 🧩 Integración de APIs y sistemas distribuidos
-- 🎨 UX/UI minimalista pero funcional
-
----
-
-## 🧠 Tecnologías que uso
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-
----
-
-## 💼 Proyectos personales
-
-| Proyecto | Descripción | Enlace |
-|---------|-------------|--------|
-| 🤖 **Chatbot IA** | Chatbot en Telegram con procesamiento de lenguaje natural. | [Ver en GitHub](https://github.com/MendozaSvatore79/chatbot-ia) |
-| 🌐 **Portafolio Web** | Página personal con React y GitHub Pages. | [Ver sitio](https://mendozasvatore79.github.io) |
-| 🔍 **Scraper Noticioso** | Extrae noticias y las organiza en MongoDB. | [Ver repo](https://github.com/MendozaSvatore79/news-scraper) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MendozaSvatore79&show_icons=true&theme=radical&hide_title=true&hide_border=true&hide_rank=false&card_width=380&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MendozaSvatore79&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🧾 Frase favorita
-
-> “La tecnología no reemplazará a los grandes maestros, pero la tecnología en manos de grandes maestros puede ser transformadora.” – George Couros
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="https://linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  <a href="https://github.com/MendozaSvatore79">
+    <img src="https://img.shields.io/badge/GitHub-MendozaSvatore79-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://synovasystems.com">
+    <img src="https://img.shields.io/badge/Synova_Systems-Visit_Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Synova Systems"/>
   </a>
-  <a href="https://mendozasvatore79.github.io">
-    <img src="https://img.shields.io/badge/Portafolio-222?style=flat-square&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=MendozaSvatore79&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software developer passionate about building modern applications, automating workflows, and integrating technologies to solve real-world problems.
+
+I enjoy working across the stack, from designing user interfaces and developing APIs to managing databases, containers, and cloud infrastructure.
+
+* 🔭 **Currently building:** Web applications, business management systems, and automation solutions.
+* 🌱 **Currently exploring:** Next.js, TypeScript, distributed systems, and cloud architecture.
+* 🤖 **Interests:** Artificial intelligence, API integration, and intelligent automation.
+* ☁️ **Infrastructure:** Docker, AWS, Linux, and deployment workflows.
+* 🎯 **Goal:** Build reliable, scalable, and maintainable software.
+* 💡 **Mindset:** Learn continuously, build consistently, and improve every day.
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,astro&theme=dark" alt="Frontend technologies"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,cs,dotnet&theme=dark" alt="Backend technologies"/>
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&theme=dark" alt="Database technologies"/>
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,bash,vscode&theme=dark" alt="Cloud and development tools"/>
+</p>
+
+> Technologies shown represent my development interests and toolkit; the level of experience varies by technology.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 StyleHub</h3>
+      <p>Appointment management platform concept for barbershops and beauty businesses, focused on simplifying customer bookings and business operations.</p>
+      <p><strong>Focus:</strong> Next.js · PostgreSQL · Web Applications</p>
+      <a href="https://stylehub.synovasystems.com">Visit project ↗</a>
+    </td>
+    <td width="50%">
+      <h3>☁️ Lab Backend</h3>
+      <p>Backend infrastructure project involving containerized deployment and cloud hosting, with an emphasis on API delivery and infrastructure configuration.</p>
+      <p><strong>Focus:</strong> Node.js · Docker · AWS · Linux</p>
+      <a href="https://github.com/MendozaSvatore79/lab-backend">View repository ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>♻️ GeoTrack</h3>
+      <p>Software project concept for recycling traceability and information management, designed to organize data and support operational reporting.</p>
+      <p><strong>Focus:</strong> Next.js · PostgreSQL · Data Management</p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Synova Systems</h3>
+      <p>Software development initiative focused on digital solutions, web platforms, business process automation, and technology integration.</p>
+      <p><strong>Focus:</strong> Software Development · APIs · Automation</p>
+      <a href="https://synovasystems.com">Visit website ↗</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/MendozaSvatore79?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
   </a>
 </p>
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MendozaSvatore79&style=flat-square&color=green" alt="visitors"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MendozaSvatore79&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendozaSvatore79&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=MendozaSvatore79&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MendozaSvatore79&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+</p>
+
+---
+
+## 🧠 What I Enjoy Building
+
+* **Full Stack Applications:** Modern interfaces, APIs, authentication, and database-driven systems.
+* **Automation:** Tools that eliminate repetitive tasks and improve operational efficiency.
+* **AI Integrations:** Practical applications powered by AI models and external services.
+* **Cloud & Infrastructure:** Containerized applications, deployment pipelines, and secure backend infrastructure.
+* **Business Software:** Management platforms, appointment systems, inventory tools, and reporting solutions.
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/MendozaSvatore79">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://synovasystems.com">
+    <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <!-- Replace the placeholder with your actual LinkedIn profile URL. -->
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great software is built through curiosity, consistency, and continuous improvement."</i>
+</p>
+
+<p align="center">
+  <sub>Designed with ❤️ by Mendoza Svatore · 2026</sub>
 </p>
